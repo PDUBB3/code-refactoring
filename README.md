@@ -37,4 +37,4 @@ code .
 
 ### After refactor
 
-To Do
+![image before refactor](./assets/images/after-refactoring-screenshot.png "after refactoring screenshot")
