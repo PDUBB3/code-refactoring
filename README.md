@@ -2,7 +2,7 @@
 
 ## Project Link
 
-Click [here]() to view on project on GitHub Pages
+Click [here](https://pdubb3.github.io/code-refactoring/) to view on project on GitHub Pages
 
 ## Description
 
